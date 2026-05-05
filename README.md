@@ -10,6 +10,12 @@ A full-stack e-commerce platform with customer-facing app and admin dashboard.
 ### 🛠️ Admin Login
 - Email: kashyapshiven2002@gmail.com
 - Password: 12345
+
+<img width="918" height="631" alt="image" src="https://github.com/user-attachments/assets/bafa9ecb-0c92-41cd-a799-541115c14709" />
+<img width="764" height="441" alt="image" src="https://github.com/user-attachments/assets/8319295d-356c-4f79-8578-8c4b9197b7e4" />
+
+  <img width="1159" height="1002" alt="image" src="https://github.com/user-attachments/assets/9a790f9b-aed8-4bdc-88b2-cebd7c8ce82d" />
+
   <img width="1160" height="712" alt="image" src="https://github.com/user-attachments/assets/4c332474-8a2f-447f-b240-b341fc5e8bc5" />
 
 
