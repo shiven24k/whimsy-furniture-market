@@ -1,5 +1,4 @@
 # Whimsy Furniture Market
-<img width="963" height="1089" alt="image" src="https://github.com/user-attachments/assets/fbc13b6e-f30d-4721-9a5b-83a6f6604e62" />
 
 A full-stack e-commerce platform with customer-facing app and admin dashboard.
 
@@ -8,19 +7,22 @@ A full-stack e-commerce platform with customer-facing app and admin dashboard.
 - Admin Dashboard: [https://your-admin-link](https://whimsy-admin.vercel.app/)
 
 ### 🛠️ Admin Login
-- Email: kashyapshiven2002@gmail.com
-- Password: 12345
+- Email: admin@whimsy.com
+- Password: Admin@123
+
+## 🖼️ Preview
+
+### 🛍️ User Experience
+<img width="963" height="1089" alt="image" src="https://github.com/user-attachments/assets/fbc13b6e-f30d-4721-9a5b-83a6f6604e62" />
+<img width="867" height="985" alt="image" src="https://github.com/user-attachments/assets/7b6111cf-fe39-47ad-8930-440821788731" />
 
 
-<img width="764" height="441" alt="image" src="https://github.com/user-attachments/assets/8319295d-356c-4f79-8578-8c4b9197b7e4" />
+### 🛠️ Admin Dashboard
+![Add Product]
+<img width="1153" height="1026" alt="image" src="https://github.com/user-attachments/assets/d2d4bb98-1090-4ac5-860a-2e8667658252" />
 
-  <img width="1159" height="1002" alt="image" src="https://github.com/user-attachments/assets/9a790f9b-aed8-4bdc-88b2-cebd7c8ce82d" />
-
-  <img width="1160" height="712" alt="image" src="https://github.com/user-attachments/assets/4c332474-8a2f-447f-b240-b341fc5e8bc5" />
-
-  <img width="1149" height="842" alt="image" src="https://github.com/user-attachments/assets/bb768711-f7f6-4b14-98e4-9776ee967e1f" />
-
-
+![Product List](./screenshots/admin-list.png)
+![Order Management](./screenshots/admin-orders.png)
 
 ## 📦 Repositories
 - Frontend: [https://github.com/shiven24k/whimsy-frontend](https://github.com/shiven24k/whimsy-frontend)
