@@ -18,7 +18,7 @@ A full-stack e-commerce platform with customer-facing app and admin dashboard.
 
 
 ### 🛠️ Admin Dashboard
-![Add Product]
+#### Add Product
 <img width="1153" height="1026" alt="image" src="https://github.com/user-attachments/assets/d2d4bb98-1090-4ac5-860a-2e8667658252" />
 
 ![Product List](./screenshots/admin-list.png)
