@@ -1,4 +1,5 @@
 # Whimsy Furniture Market
+<img width="963" height="1089" alt="image" src="https://github.com/user-attachments/assets/fbc13b6e-f30d-4721-9a5b-83a6f6604e62" />
 
 A full-stack e-commerce platform with customer-facing app and admin dashboard.
 
@@ -9,6 +10,8 @@ A full-stack e-commerce platform with customer-facing app and admin dashboard.
 ### 🛠️ Admin Login
 - Email: kashyapshiven2002@gmail.com
 - Password: 12345
+  <img width="1160" height="712" alt="image" src="https://github.com/user-attachments/assets/4c332474-8a2f-447f-b240-b341fc5e8bc5" />
+
 
 ## 📦 Repositories
 - Frontend: [https://github.com/shiven24k/whimsy-frontend](https://github.com/shiven24k/whimsy-frontend)
