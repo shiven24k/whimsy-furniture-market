@@ -14,9 +14,12 @@ A full-stack e-commerce platform with customer-facing app and admin dashboard.
 
 ### 🛍️ User Experience
 #### User Home
-<img width="963" height="1089" alt="image" src="https://github.com/user-attachments/assets/fbc13b6e-f30d-4721-9a5b-83a6f6604e62" />
+<img width="1807" height="1137" alt="image" src="https://github.com/user-attachments/assets/fd5dce8a-50d7-46ba-8172-9d5b83650b3e" />
+
+
 #### Orders
-<img width="867" height="985" alt="image" src="https://github.com/user-attachments/assets/7b6111cf-fe39-47ad-8930-440821788731" />
+<img width="1761" height="1061" alt="image" src="https://github.com/user-attachments/assets/34d34c28-8950-4105-be7b-033229e41501" />
+
 
 
 ### 🛠️ Admin Dashboard
